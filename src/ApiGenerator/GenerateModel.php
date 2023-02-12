@@ -1,7 +1,7 @@
 <?php
 namespace Erwinnerwin\LaravelApiGenerator\ApiGenerator;
 
-use ApiGenerator\GenerateApiInterface;
+use Erwinnerwin\LaravelApiGenerator\ApiGenerator\GenerateApiInterface;
 
 class GenerateModel implements GenerateApiInterface
 {

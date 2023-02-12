@@ -2,10 +2,10 @@
 
 namespace Erwinnerwin\LaravelApiGenerator\ApiGenerator;
 
-use ApiGenerator\GenerateController;
-use ApiGenerator\GenerateModel;
-use ApiGenerator\GenerateBladeView;
-use ApiGenerator\GenerateApiRoute;
+use Erwinnerwin\LaravelApiGenerator\ApiGenerator\GenerateController;
+use Erwinnerwin\LaravelApiGenerator\ApiGenerator\GenerateModel;
+use Erwinnerwin\LaravelApiGenerator\ApiGenerator\GenerateBladeView;
+use Erwinnerwin\LaravelApiGenerator\ApiGenerator\GenerateApiRoute;
 use File;
 
 class GenerateFile

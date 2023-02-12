@@ -4,7 +4,7 @@ namespace Erwinnerwin\LaravelApiGenerator\Commands;
 
 
 use Illuminate\Console\Command;
-use ApiGenerator\GenerateFile;
+use Erwinnerwin\LaravelApiGenerator\ApiGenerator\GenerateFile;
 
 class GenerateApi extends Command
 {
