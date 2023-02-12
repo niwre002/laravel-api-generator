@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Erwinnerwin\\LaravelApiGenerator\\PackageServiceProvider"
+                "Erwinnerwin\\LaravelApiGenerator\\Providers\\PackageServiceProvider"
             ]
         }
     }
