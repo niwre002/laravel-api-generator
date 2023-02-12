@@ -3,8 +3,18 @@
 Create an API resource with just one command line. This is a useful tool that can help us reduce development time thus promoting efficiency amongst all developers.
 
 ## Installation
+Add this package to composer.json
+```
+"require": {
+    ..
+    "erwinnerwin/laravel-api-generator": "^1.0.9"
+}
+```
+And run ```composer update```
 
+or just type 
 
+```composer require erwinnerwin/laravel-api-generator```
 
 ## Main Features
 * Create API route resource
