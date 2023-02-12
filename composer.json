@@ -1,0 +1,19 @@
+{
+    "name": "erwinnerwin/laravel-api-generator",
+    "description": "Laravel API Generator is a tool that generates a RESTful API backend for Laravel applications. It helps developers create a complete and functional API in minutes, saving time and streamlining the development process. With features like code generation, customizable templates, and secure authentication, the Laravel API Generator simplifies the creation of robust, scalable, and secure APIs.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Erwinnerwin\\LaravelApiGenerator\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erwin Dalapa",
+            "email": "erwinrommel.dalapa@gmail.com"
+        }
+    ],
+    "require": {}
+}
