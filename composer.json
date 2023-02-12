@@ -15,5 +15,12 @@
             "email": "erwinrommel.dalapa@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Erwinnerwin\\LaravelApiGenerator\\PackageServiceProvider"
+            ]
+        }
+    }
 }
