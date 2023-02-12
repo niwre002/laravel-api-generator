@@ -1,6 +1,7 @@
 <?php
 
-namespace App\Providers;
+namespace Erwinnerwin\LaravelApiGenerator;
+
 use Erwinnerwin\LaravelApiGenerator\Commands\GenerateApi;
 use Illuminate\Support\ServiceProvider;
 

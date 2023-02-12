@@ -1,5 +1,5 @@
 <?php
-namespace App\ApiGenerator;
+namespace Erwinnerwin\LaravelApiGenerator\ApiGenerator;
 
 use App\ApiGenerator\GenerateApiInterface;
 

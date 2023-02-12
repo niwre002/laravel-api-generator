@@ -1,5 +1,6 @@
 <?php
-namespace App\ApiGenerator;
+namespace Erwinnerwin\LaravelApiGenerator\ApiGenerator;
+
 use App\ApiGenerator\GenerateApiInterface;
 
 class GenerateBladeView implements GenerateApiInterface

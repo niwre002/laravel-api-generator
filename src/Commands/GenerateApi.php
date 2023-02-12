@@ -1,6 +1,7 @@
 <?php
 
-namespace App\Console\Commands;
+namespace Erwinnerwin\LaravelApiGenerator\Commands;
+
 
 use Illuminate\Console\Command;
 use App\ApiGenerator\GenerateFile;

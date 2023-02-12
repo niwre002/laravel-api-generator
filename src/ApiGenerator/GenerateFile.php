@@ -1,6 +1,7 @@
 <?php
 
-namespace App\ApiGenerator;
+namespace Erwinnerwin\LaravelApiGenerator\ApiGenerator;
+
 
 use App\ApiGenerator\GenerateController;
 use App\ApiGenerator\GenerateModel;
