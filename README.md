@@ -55,7 +55,7 @@ Model relationships
 $ php artisan generate:api Books --relationship1=hasOne User --relationship2=hasMany Profile
 ```
 Generated code sample output
-* [Generated Controller](https://github.com/fastfwd/api-generator/blob/master/app/Http/Controllers/BooksController.php)
-* [Generated Model with cardinality](https://github.com/fastfwd/api-generator/blob/master/app/Models/Books.php)
-* [Generated API route resource](https://github.com/fastfwd/api-generator/blob/master/routes/api.php)
-* [Generated view blade](https://github.com/fastfwd/api-generator/blob/master/resources/views/books/index.blade.php)
+* [Generated Controller]
+* [Generated Model with cardinality]
+* [Generated API route resource]
+* [Generated view blade]
